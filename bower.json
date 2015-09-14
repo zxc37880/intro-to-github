@@ -9,5 +9,6 @@
     "jquery-validation": "1.11.1",
     "jquery-validation-unobtrusive": "3.2.2"
     "test": "123test":::
+    # 123
   }
 }
