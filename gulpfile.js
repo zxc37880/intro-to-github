@@ -10,7 +10,7 @@ var gulp = require("gulp"),
 var paths = {
   webroot: "./" + project.webroot + "/"
 };
-
+///////try try
 paths.js = paths.webroot + "js/**/*.js";
 paths.minJs = paths.webroot + "js/**/*.min.js";
 paths.css = paths.webroot + "css/**/*.css";
