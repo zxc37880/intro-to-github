@@ -123,7 +123,7 @@ namespace WebApplication
             app.UseMvc(routes =>
             {
                 routes.MapRoute(
-                    name: "default",
+                    name: "default-app",
                     template: "{controller=Home}/{action=Index}/{id?}");
 
                 // Uncomment the following line to add a route for porting Web API 2 controllers.
