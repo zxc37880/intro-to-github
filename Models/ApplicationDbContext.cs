@@ -13,6 +13,8 @@ namespace WebApplication.Models
         {
             //try to do somethings here
             // get what?
+            // error = (more code)^2
+            // e = mc^2
             base.OnModelCreating(builder);
             // Customize the ASP.NET Identity model and override the defaults if needed.
             // For example, you can rename the ASP.NET Identity table names and more.
