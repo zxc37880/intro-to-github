@@ -11,6 +11,8 @@ namespace WebApplication.Models
     {
         protected override void OnModelCreating(ModelBuilder builder)
         {
+            //try to do somethings here
+            // get what?
             base.OnModelCreating(builder);
             // Customize the ASP.NET Identity model and override the defaults if needed.
             // For example, you can rename the ASP.NET Identity table names and more.
