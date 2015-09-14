@@ -62,7 +62,7 @@ namespace WebApplication
             // For more information see http://go.microsoft.com/fwlink/?LinkID=532715
             services.Configure<FacebookAuthenticationOptions>(options =>
             {
-                options.AppId = Configuration["Authentication:Facebook:AppId"];
+          //      options.AppId = Configuration["Authentication:Facebook:AppId"];
                 options.AppSecret = Configuration["Authentication:Facebook:AppSecret"];
             });
 
