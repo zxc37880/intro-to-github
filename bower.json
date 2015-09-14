@@ -1,6 +1,6 @@
 {
   "name": "WebApplication",
-  "private": true,
+  "private": false,
   "dependencies": {
     "bootstrap": "3.0.0",
     "bootstrap-touch-carousel": "0.8.0",
